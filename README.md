@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Kotchakorn M. (Mill)
-Full-Stack Developer with a strong passion for mobile development. Skilled in cross-platform mobile frameworks (Flutter), frontend (React, Next.js, vue), and backend (Nest.js). Passionate about building scalable applications, optimizing performance, and delivering seamless user experiences across all platforms.
+Full-stack developer with experience in developing efficient and scalable web applications. Proficient in frontend technologies (React, Next.js, Vue), backend development (Nest.js), and cross-platform mobile frameworks (Flutter). Passionate about optimizing performance and delivering seamless user experiences across all platforms.
 
 #### 💻 My Tech Stack
 
